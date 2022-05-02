@@ -1,0 +1,5 @@
+print the code calculates the area of a rectangle
+width = input
+height = input
+area = width * height
+print the area of the rectangle is area
