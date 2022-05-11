@@ -1,0 +1,5 @@
+print "the code calculates the area of a rectangle"
+'width' = input "What is the rectangle's width: "
+'height' = input "What is the rectangle's height: "
+'area' = 'width' * 'height'
+print "the area of the rectangle is 'area'"
