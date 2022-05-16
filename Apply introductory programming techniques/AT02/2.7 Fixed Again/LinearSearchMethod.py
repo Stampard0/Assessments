@@ -5,5 +5,5 @@ def linear_search(search_term): #this is defining the linear_search & what to se
             return True #return True because term has been found
     return False #if the for loop ends , return False
 
-print(linear_search("watermelon"), fruitlist.index("watermelon")) #using index() makes it return the index of what you search.
-print(linear_search("pineapple"))
+print("watermelon") #using index() makes it return the index of what you search.
+print("pineapple")

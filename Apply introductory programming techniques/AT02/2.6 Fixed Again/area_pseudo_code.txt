@@ -3,5 +3,5 @@ PRINT "the code calculates the area of a rectangle"
 width = INPUT
 "What is the rectangle's height: "
 height = INPUT
-area = 'width' * 'height'
-print "the area of the rectangle is" 'area'
+area = width * height
+PRINT "the area of the rectangle is" + area
