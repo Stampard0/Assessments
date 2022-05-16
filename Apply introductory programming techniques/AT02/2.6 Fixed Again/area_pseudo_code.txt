@@ -1,0 +1,7 @@
+PRINT "the code calculates the area of a rectangle"
+"What is the rectangle's width: "
+width = INPUT
+"What is the rectangle's height: "
+height = INPUT
+area = 'width' * 'height'
+print "the area of the rectangle is" 'area'
