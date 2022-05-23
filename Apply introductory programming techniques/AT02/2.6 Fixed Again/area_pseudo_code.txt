@@ -1,7 +1,7 @@
 PRINT "the code calculates the area of a rectangle"
-"What is the rectangle's width: "
+PRINT "What is the rectangle's width: "
 width = INPUT
-"What is the rectangle's height: "
+PRINT "What is the rectangle's height: "
 height = INPUT
 area = width * height
 PRINT "the area of the rectangle is" + area
