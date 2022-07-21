@@ -1,0 +1,16 @@
+output_string = open file "Python.txt" write
+output_string.write to Python.txt
+output_string.close file Python.txt
+
+input_string = open file "Python.txt" read
+print input_string.read
+input_string.close file Python.txt
+
+
+
+JOSHS CODE TO REFERENCE
+"Python.txt" = WRITE output_string
+(example of how to write value to file in pseudo)
+
+input_string = READ "Python.txt"
+(example of how to read value from file and store in variable, in pseudo)
