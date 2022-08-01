@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T08:00:12.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="J2DZf1az3Siq7fZqlZ83" version="20.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-01T08:36:56.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VCbY696E82ZeDxyPVS1O" version="20.2.2" type="github" pages="5">
   <diagram id="_5GUIrbD9RQOqBY5dVK8" name="Main">
     <mxGraphModel dx="1966" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#000000" math="0" shadow="0">
       <root>
@@ -422,12 +422,15 @@
           <mxGeometry x="850" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-20" value="Game closes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="850" y="330" width="100" height="60" as="geometry" />
+          <mxGeometry x="920" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-23" value="Stores the character name." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlDzLzGPHhUqy3ZhzEJl-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="sem8XjQC4fygxhKUSucd-30" target="UlDzLzGPHhUqy3ZhzEJl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="sem8XjQC4fygxhKUSucd-30" target="VWcsO50qw9j1_cBL0HkO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-30" value="Activate the Save Menu." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
@@ -437,7 +440,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-31" value="Activate the Options Menu pop-up." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="320" width="100" height="60" as="geometry" />
+          <mxGeometry x="1250" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Scene switches to start of Game Scene.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="570" width="100" height="60" as="geometry" />
@@ -475,11 +478,11 @@
         <mxCell id="sem8XjQC4fygxhKUSucd-52" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Player has pressed the Options button.&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1250" y="210" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sem8XjQC4fygxhKUSucd-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="sem8XjQC4fygxhKUSucd-54" target="sem8XjQC4fygxhKUSucd-20">
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="sem8XjQC4fygxhKUSucd-54" target="sem8XjQC4fygxhKUSucd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sem8XjQC4fygxhKUSucd-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Player has pressed the Quit button.&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="850" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="780" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-3">
           <mxGeometry relative="1" as="geometry" />
@@ -487,10 +490,10 @@
         <mxCell id="VWcsO50qw9j1_cBL0HkO-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-5">
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-6">
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="UlDzLzGPHhUqy3ZhzEJl-1" target="UlDzLzGPHhUqy3ZhzEJl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UlDzLzGPHhUqy3ZhzEJl-1" value="Player has selected a save slot." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -550,10 +553,19 @@
         <mxCell id="VWcsO50qw9j1_cBL0HkO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-16" value="Show direct data for resolution, gamma, volume (master, music, sound-effects)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-18" value="Player presses the resolution drop down" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-18" target="VWcsO50qw9j1_cBL0HkO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-18" value="Player presses the Resolution drop down" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1010" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-19" value="Player adjusts the Sound-Effect volume slider." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -567,9 +579,6 @@
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-22" value="Player adjusts the Gamma slider." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1130" y="570" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-28" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1130" y="690" width="100" height="60" as="geometry" />
@@ -585,6 +594,48 @@
         </mxCell>
         <mxCell id="UlDzLzGPHhUqy3ZhzEJl-3" value="Player has pressed the Copy button" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-35" value="Game gets displayed in selected resolution." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-36" target="VWcsO50qw9j1_cBL0HkO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-36" value="drop down activates &amp;amp; show screen resolution options." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-40" target="VWcsO50qw9j1_cBL0HkO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-40" value="Player has pressed the Options button again." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-41" value="Deactivate the Options Menu pop-up" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-46" target="VWcsO50qw9j1_cBL0HkO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-46" value="Player has pressed the Options button." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-48" target="sem8XjQC4fygxhKUSucd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-48" value="Deactivate the Save Menu." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="920" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-54" target="VWcsO50qw9j1_cBL0HkO-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-54" value="Player has pressed the Load button." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.2;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-56" target="sem8XjQC4fygxhKUSucd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-56" value="Deactivate the Options Menu pop-up" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="450" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
