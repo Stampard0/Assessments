@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:24:32.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uMj9yZpHfmD8ySkPxDt2" version="20.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-02T04:37:57.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A1DvM8FNzL2o17SmaFF_" version="20.2.2" type="github" pages="5">
   <diagram id="_5GUIrbD9RQOqBY5dVK8" name="Main">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#000000" math="0" shadow="0">
       <root>
@@ -589,9 +589,6 @@
         <mxCell id="VWcsO50qw9j1_cBL0HkO-13" value="Switch to Scene position that is stored in selected save slot." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="750" y="810" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.08;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -610,6 +607,9 @@
         <mxCell id="VWcsO50qw9j1_cBL0HkO-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fillColor=#000000;" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="VWcsO50qw9j1_cBL0HkO-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hQBd993G-71soLKT8l-p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-16" target="hQBd993G-71soLKT8l-p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-16" value="Show direct data for resolution, gamma, volume (master, music, sound-effects)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1240" y="440" width="120" height="80" as="geometry" />
         </mxCell>
@@ -626,16 +626,16 @@
           <mxGeometry x="1370" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-21" value="Player adjusts the Master volume slider." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="570" width="100" height="60" as="geometry" />
+          <mxGeometry x="1250" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQBd993G-71soLKT8l-p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="VWcsO50qw9j1_cBL0HkO-22" target="hQBd993G-71soLKT8l-p-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-22" value="Player adjusts the Gamma slider." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="1130" y="570" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="690" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-30" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="690" width="100" height="60" as="geometry" />
+          <mxGeometry x="1170" y="820" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-31" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1370" y="690" width="100" height="60" as="geometry" />
@@ -652,7 +652,7 @@
         <mxCell id="VWcsO50qw9j1_cBL0HkO-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" parent="1" source="VWcsO50qw9j1_cBL0HkO-36" target="VWcsO50qw9j1_cBL0HkO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWcsO50qw9j1_cBL0HkO-36" value="drop down activates &amp;amp; show screen resolution options." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VWcsO50qw9j1_cBL0HkO-36" value="drop down activates &amp;amp; shows screen resolution options." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1010" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#000000;" parent="1" source="VWcsO50qw9j1_cBL0HkO-40" target="VWcsO50qw9j1_cBL0HkO-41" edge="1">
@@ -687,6 +687,12 @@
         </mxCell>
         <mxCell id="VWcsO50qw9j1_cBL0HkO-56" value="Deactivate the Options Menu pop-up" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="780" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQBd993G-71soLKT8l-p-1" value="The Brightness of the game changes to what is set by slider." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQBd993G-71soLKT8l-p-3" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="570" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
