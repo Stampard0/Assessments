@@ -1,0 +1,31 @@
+Core Units:
+BSBCRT404 Apply advanced critical thinking to work processes (Done)
+
+BSBXCS404 Contribute to cyber security risk management
+
+ICTICT426 Identify and evaluate emerging technologies and practices
+
+ICTICT443 Work collaboratively in the ICT industry (Done)
+
+ICTICT451 Comply with IP, ethics and privacy policies in ICT environments
+
+ICTPRG302 Apply introductory programming techniques (Done)
+
+ICTSAS432 Identify and resolve client ICT problems
+
+Elective Units
+ICTGAM418 Use simple modelling for animation
+3D modelling
+
+ICTGAM420 Produce interactive games
+Introduction to Game Design
+
+ICTGAM421 Identify and apply games design and game play principles
+Introduction to Game Design
+
+ICTGAM426 Write narrative scripts for interactive games
+
+ICTGAM427 Use 3-D software interface and toolsets
+3D game development
+
+ICTICT433 Build graphical user interfaces
