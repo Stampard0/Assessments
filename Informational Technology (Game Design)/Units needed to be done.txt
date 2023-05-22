@@ -24,8 +24,9 @@ ICTGAM421 Identify and apply games design and game play principles
 Introduction to Game Design
 
 ICTGAM426 Write narrative scripts for interactive games
+GDD & Narrative
 
 ICTGAM427 Use 3-D software interface and toolsets
 3D game development
 
-ICTICT433 Build graphical user interfaces
+ICTICT433 Build graphical user interfaces (Done)
