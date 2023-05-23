@@ -14,16 +14,16 @@ ICTPRG302 Apply introductory programming techniques (Done)
 ICTSAS432 Identify and resolve client ICT problems
 
 Elective Units
-ICTGAM418 Use simple modelling for animation
+ICTGAM418 Use simple modelling for animation (Working)
 3D modelling
 
-ICTGAM420 Produce interactive games
+ICTGAM420 Produce interactive games (Working)
 Introduction to Game Design
 
-ICTGAM421 Identify and apply games design and game play principles
+ICTGAM421 Identify and apply games design and game play principles (Working)
 Introduction to Game Design
 
-ICTGAM426 Write narrative scripts for interactive games
+ICTGAM426 Write narrative scripts for interactive games (Working)
 GDD & Narrative
 
 ICTGAM427 Use 3-D software interface and toolsets
