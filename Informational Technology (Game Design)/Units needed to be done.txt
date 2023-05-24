@@ -7,7 +7,7 @@ ICTICT426 Identify and evaluate emerging technologies and practices
 
 ICTICT443 Work collaboratively in the ICT industry (Done)
 
-ICTICT451 Comply with IP, ethics and privacy policies in ICT environments
+ICTICT451 Comply with IP, ethics and privacy policies in ICT environments (Done)
 
 ICTPRG302 Apply introductory programming techniques (Done)
 
