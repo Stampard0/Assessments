@@ -1,0 +1,4 @@
+Feedback
+- Move faster please
+- 3d text is cool, should billboard to camera
+- disable interaction if 3d text is up or toggle 3d text when clicked
