@@ -4,11 +4,11 @@ Negative: there is nothing in the game to tell us the controls.
 Neutral: The speed could be adjusted.
 
 User 2:
-Positve: 
+Positve: the following text bubbles.
 Negative: People wont know the controls with out you telling them.
-Neutral: 
+Neutral: There could be more interactables.
 
 User 3:
-Positve: 
+Positve: the text bubbles being in the world & not on the UI.
 Negative: How to know controls. 
 Neutral: tips on what can be interacted with?
