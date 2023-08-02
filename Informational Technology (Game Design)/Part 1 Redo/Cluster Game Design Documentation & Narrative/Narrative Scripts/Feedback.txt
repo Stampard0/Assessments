@@ -1,0 +1,14 @@
+Person 1:
+Good:
+Bad: the narrative seems out of date compared to the game.
+Neutral:
+
+Person 2:
+Good:
+Bad: The narrative needs to be inline with the game.
+Neutral:
+
+Person 3:
+Good:
+Bad: Needs updating to be inline with the game
+Neutral:
