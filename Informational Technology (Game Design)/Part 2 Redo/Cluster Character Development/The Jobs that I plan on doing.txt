@@ -1,2 +1,66 @@
 MegaMurder
 Antique Hoop
+
+
+AT1: Main Character/Player
+From Job: MegaMurder
+Character Chosen: Mk1 Combat Droid
+Description:
+- Humanoid combat robot
+- Head resembles some kind of camera
+- Strong resemblance to a ‘skinny’ Boston 
+Dynamics robot
+- Armour plating across the torso and 
+upper thighs, with only a little bit of 
+armour on the rest of the limbs
+- Limited jetpack/boost assembly on the 
+back which can almost give the 
+appearance of wings
+
+AT2: Enemy Character
+From Job: Antique Hoop
+Character Chosen: Possessed Armour
+Description:
+- Literally just a suit of armour filled with a 
+formless mist
+- The armour is impeccable and shiny, 
+except for near the joints where the mist 
+filling it occasionally leaks out
+- Wields a large two handed axe
+
+AT2 alternitve: Enemy Character
+From Job: MegaMurder
+Character Chosen: Mk2 Combat Droid
+Description:
+- Literally Mk1 with a palette flipped 
+colour scheme 
+- Slight improvements on the ‘base’ model; 
+head might resemble a slightly better 
+model of camera
+- Left arm is slightly bulkier in order to 
+contain a unique weapon system & needs 
+to be detachable (essentially a prop for 
+the main model) as it serves as a pickup 
+for the player after they defeat Mk2
+
+AT3: NPC Character
+From Job: Antique Hoop
+Character Chosen: Level Up NPC
+Description:
+- Feminine humanoid
+- Appears to be either a teenager or very 
+young adult
+- Not strictly speaking a human – has some 
+kind of mystical property, or is maybe a 
+demigod?
+- Long hair styled meticulously before 
+being hidden by a hood
+- Conservative/modest clothing made from 
+a rich material, slightly tarnished by time 
+and travel
+- Their clothes almost entirely hide their 
+form
+- Reserved and soft spoken, seemingly 
+subservient but ultimately holds 
+significant power over the Chosen 
+Unburnished as they grant them power
