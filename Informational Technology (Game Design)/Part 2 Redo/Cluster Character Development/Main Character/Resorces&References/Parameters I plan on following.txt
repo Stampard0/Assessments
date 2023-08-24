@@ -1,0 +1,14 @@
+the actulle Boston robot height:
+175cm tall (5.75ft)
+or 1.5m tall
+weight: 89kg
+
+try to have 28 joints & or bones
+
+What I will do for sizing
+Height: 1675mm = 167.5cm = 1.675m (Blender use 0.8375m in globle)
+Eye Height: 1568mm = 156.8cm = 1.568m (Blender use 0.784m in globle)
+Shoulder Height: 1368mm = 136.8cm = 1.368m (Blender use 0.684m in globle)
+Shoulder Width: 430mm = 43cm = 0.43m (Blender use 0.215m in globle)
+Hip Width: 365mm = 36.5cm = 0.365m (Blender use 0.1825m in globle)
+Arm Span: 1698mm = 169.8cm = 1.698m (Blender use 0.849m in globle)

@@ -1,0 +1,6 @@
+I will name the character assets like this:
+<character/name_of_character>_V<what ever I want the version number to be>
+e.g. Mk1_Combat_Droid_V0.1
+
+the version(V) number will increment each session I work on the model (It will only be the decimal number though)
+Once the model is considered done it's version number will be V1
