@@ -1,0 +1,7 @@
+AT2 alternitve: Enemy Character
+From Job: Antique Hoop
+Character Chosen: Giant Wolf
+Description:
+- A wolf the size of a horse
+- Hugely muscled and intimidating
+- Has three eyes

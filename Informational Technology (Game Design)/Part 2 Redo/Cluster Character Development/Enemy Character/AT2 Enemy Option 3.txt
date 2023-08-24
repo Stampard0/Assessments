@@ -1,0 +1,20 @@
+Visual Style to follow:
+- Robotic characters/enemies will have
+	o a single bright colour across most of their body
+	o one or two complementary/contrasting colours for secondary details 
+	o darker silvers/greys/blacks for tertiary details.
+
+AT2 alternitve: Enemy Character
+From Job: MegaMurder
+Character Chosen: Mk2 Combat Droid
+Description:
+- Literally Mk1 with a palette flipped 
+colour scheme 
+- Slight improvements on the ‘base’ model; 
+head might resemble a slightly better 
+model of camera
+- Left arm is slightly bulkier in order to 
+contain a unique weapon system & needs 
+to be detachable (essentially a prop for 
+the main model) as it serves as a pickup 
+for the player after they defeat Mk2

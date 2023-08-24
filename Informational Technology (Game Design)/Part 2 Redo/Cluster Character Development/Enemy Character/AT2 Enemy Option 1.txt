@@ -1,0 +1,10 @@
+AT2: Enemy Character
+From Job: Antique Hoop
+Character Chosen: Possessed Armour
+Description:
+- Literally just a suit of armour filled with a 
+formless mist
+- The armour is impeccable and shiny, 
+except for near the joints where the mist 
+filling it occasionally leaks out
+- Wields a large two handed axe

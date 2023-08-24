@@ -1,0 +1,20 @@
+Visual Style to follow:
+- Robotic characters/enemies will have
+	o a single bright colour across most of their body
+	o one or two complementary/contrasting colours for secondary details 
+	o darker silvers/greys/blacks for tertiary details.
+
+AT1: Main Character/Player
+From Job: MegaMurder
+Character Chosen: Mk1 Combat Droid
+Description:
+- Humanoid combat robot
+- Head resembles some kind of camera
+- Strong resemblance to a ‘skinny’ Boston 
+Dynamics robot
+- Armour plating across the torso and 
+upper thighs, with only a little bit of 
+armour on the rest of the limbs
+- Limited jetpack/boost assembly on the 
+back which can almost give the 
+appearance of wings
