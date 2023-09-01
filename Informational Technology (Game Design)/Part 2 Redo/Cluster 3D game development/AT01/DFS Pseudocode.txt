@@ -1,0 +1,22 @@
+stepCount = DFS target
+if stepCount > -1
+	log "Target found in steps"
+else
+	log " target not found"
+
+
+
+stack = new stack
+visitedNode = node list
+
+push rootNode to stack
+
+while stack count > 0
+	node = stack pop
+	add node to visitedNode
+
+	For each child of current node
+		if visitedNode doesn't contain a child & stack doesn't contain a child
+			if child is target node
+				return visitedNode count
+			push child to stack
