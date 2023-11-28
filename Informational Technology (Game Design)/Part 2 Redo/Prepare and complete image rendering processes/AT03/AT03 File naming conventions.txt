@@ -1,0 +1,8 @@
+File names will be:
+"AT03 Test render" for the screen shot of the render test
+"Test Render" for the rendered test
+"AT03 Optimised Render" for the Screen Shot of the optimise render
+"Optimised Render" for the Rendered Optimised scene
+
+File Organisation:
+AT03 images & documents will be in a file labled "AT03"
