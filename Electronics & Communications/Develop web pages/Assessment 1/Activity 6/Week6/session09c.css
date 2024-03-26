@@ -1,0 +1,19 @@
+html, body{
+	height:100%;
+	font-family: Calibri, Arial, sans-serif;
+	font-size: 14pt;
+}
+
+h1{
+	font-size: 20pt;
+	color: #22b224;
+}
+
+p{
+	line-height: 150%;
+}
+
+iframe{
+	width: 60%;
+	height: 60%;
+}

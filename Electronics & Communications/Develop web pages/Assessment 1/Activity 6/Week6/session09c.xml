@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="session09c.xsl"?>
+<catalog>
+<book>
+    <title>Practical Electronics for Inventors</title>
+    <author>Paul Scherz</author>
+    <pubdate>2000</pubdate>
+    <publisher>McGraw-Hill</publisher>
+    <isbn>0-07-138990-3</isbn>
+</book>
+<book>
+    <title>Electronic Circuits for the Evil Genius 2ed</title>
+    <author>Dave Cutcher</author>
+    <pubdate>2010</pubdate>
+    <publisher>McGraw-Hill/TAB Electronics</publisher>
+    <isbn>9780071744126</isbn>
+</book>
+<book>
+    <title>Transistor Circuit Techniques: Discrete and integrated (TUTORIAL GUIDES IN ELECTRONIC ENGINEERING) 3ed</title>
+    <author>Gordon J. Ritchie</author>
+    <pubdate>2003</pubdate>
+    <publisher>CRC Press</publisher>
+    <isbn>978-0748740758</isbn>
+</book>
+<book>
+    <title>Analog Circuit Design Series</title>
+    <author>Dennis Feucht</author>
+    <pubdate>2010</pubdate>
+    <publisher>McGraw-Hill/TAB Electronics</publisher>
+    <isbn>978-1891121876</isbn>
+</book>
+<book>
+    <title>Wideband Amplifiers</title>
+    <author>Peter Staric</author>
+    <pubdate>2007</pubdate>
+    <publisher>Springer</publisher>
+    <isbn>978-1402055508</isbn>
+</book>
+<book>
+    <title>Grounds for Grounding: A Circuit to System Handbook 1ed</title>
+    <author>Elya B. Joffe</author>
+    <pubdate>2010</pubdate>
+    <publisher>Wiley-IEEE Press</publisher>
+    <isbn>978-0471660088</isbn>
+</book>
+<book>
+    <title>Emc and the Printed Circuit Board: Design, Theory, and Layout Made Simple 1ed</title>
+    <author>Mark I. Montrose</author>
+    <pubdate>1998</pubdate>
+    <publisher>Wiley-IEEE Press</publisher>
+    <isbn>978-0780347038</isbn>
+</book>
+</catalog>
